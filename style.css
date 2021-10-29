@@ -1,0 +1,349 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#search-button{
+    animation: upwards 1s forwards;
+}
+@keyframes upwards{
+    from{
+        opacity: 0;
+      transform: translateY(20px);
+    }
+    to{
+        opacity: 1;
+        z-index: 10;
+       transform: translateY(0px);
+    }
+}
+#Group-206{
+    animation: kiranaa 1s forwards;
+}
+@keyframes kiranaa{
+    from {
+     opacity: 0;
+     transform: translateY(20px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+#your-cardname-one{
+    animation: yourcardName 1.5s forwards;
+}
+@keyframes yourcardName{
+    from{
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+#three-images{
+    animation: three 1.5s forwards;
+}
+@keyframes three{
+    from{
+    opacity: 0;
+    transform: translateY(-30px);
+    }
+    to{
+    opacity: 1;
+    transform: translateY(0px);
+    }
+}
+#your-cardname-two{
+    animation: secondAnimation 1.5s forwards;
+}
+@keyframes secondAnimation{
+    from{
+        opacity: 0;
+        transform: translateY(-40px);
+        }
+        to{
+        opacity: 1;
+        transform: translateY(0px);
+        }
+}
+#Vector-12{
+    animation:onoff 6s forwards;
+}
+@keyframes onoff{
+    from{
+      opacity:0;
+    }
+    to{
+      opacity: 1;
+    }
+}
+#Main-phone{
+    animation: main 2s forwards;
+}
+@keyframes main{
+    from{
+       opacity: 0.5;
+       transform: translateY(90px);
+    }
+    to{
+      opacity: 1;
+      transform: translateX(0px);
+    }
+}
+#Group-214{
+    animation: icon-one 1s forwards;
+    animation-delay: 1s;
+    opacity: 0;
+}
+@keyframes icon-one{
+    from{
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+#Group-209{
+    animation: icon-two 1s forwards;
+    animation-delay: 1.2s;
+    opacity: 0;
+}
+@keyframes icon-two{
+    from{
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+#Group-208{
+    animation: icon-three 1s forwards;
+    animation-delay: 1.4s;
+    opacity: 0;
+}
+@keyframes icon-three{
+    from{
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+#Group-210{
+    animation: icon-four 1s forwards;
+    animation-delay: 1.6s;
+    opacity: 0;
+}
+@keyframes icon-four{
+    from{
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+#Group-211{
+    animation: icon-five 1s forwards;
+    animation-delay: 1.8s;
+    opacity: 0;
+}
+@keyframes icon-five{
+    from{
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+#Vector_1477{
+    animation: box 1.5s forwards;
+}
+@keyframes box{
+    from{
+      opacity: 0;
+    }
+    to{
+      opacity: 1;
+    }
+}
+#Group-185{
+    animation: profilePic 1s forwards;
+    animation-delay: 1s;
+    opacity: 0;
+}
+@keyframes profilePic{
+    from{
+       opacity: 0;
+    }
+    to{
+       opacity: 1;
+    }
+}
+#line-one{
+    animation: Lone 1s forwards;
+    animation-delay: 1.3s;
+    opacity: 0;
+}
+@keyframes Lone{
+    from{
+       opacity: 0;
+    }
+    to{
+       opacity: 1;
+    }
+}
+#line-two{
+   animation: Ltwo 1s forwards;
+   animation-delay: 1.5s;
+   opacity: 0; 
+}
+@keyframes Ltwo{
+    from{
+      opacity: 0;
+    }
+    to{
+       opacity: 1;
+    }
+}
+#line-three{
+    animation: Lthree 1s forwards;
+    animation-delay: 1.7s;
+    opacity: 0; 
+ }
+ @keyframes Lthree{
+     from{
+       opacity: 0;
+     }
+     to{
+        opacity: 1;
+     }
+ }
+ #line-four{
+    animation: Lfour 1s forwards;
+    animation-delay: 1.9s;
+    opacity: 0; 
+ }
+ @keyframes Lfour{
+     from{
+       opacity: 0;
+     }
+     to{
+        opacity: 1;
+     }
+ }
+ #line-five{
+    animation: Lfive 1s forwards;
+    animation-delay: 2.1s;
+    opacity: 0; 
+ }
+ @keyframes Lfive{
+     from{
+       opacity: 0;
+     }
+     to{
+        opacity: 1;
+     }
+ }
+ #Group-14{
+    animation: main-two 2s forwards;
+}
+@keyframes main-two{
+    from{
+       opacity: 0.5;
+       transform: translateY(90px);
+    }
+    to{
+      opacity: 1;
+      transform: translateX(0px);
+    }
+}
+#Group-214_2{
+    animation: icon-one 1s forwards;
+    animation-delay: 1s;
+    opacity: 0;
+}
+@keyframes icon-one{
+    from{
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+#Group-215{
+    animation: icon-two 1s forwards;
+    animation-delay: 1.2s;
+    opacity: 0;
+}
+@keyframes icon-two{
+    from{
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+#Group-216{
+    animation: icon-three 1s forwards;
+    animation-delay: 1.4s;
+    opacity: 0;
+}
+@keyframes icon-three{
+    from{
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+#Group-215_2{
+    animation: icon-four 1s forwards;
+    animation-delay: 1.6s;
+    opacity: 0;
+}
+@keyframes icon-four{
+    from{
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+#Group-217{
+    animation: icon-five 1s forwards;
+    animation-delay: 1.8s;
+    opacity: 0;
+}
+@keyframes icon-five{
+    from{
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
